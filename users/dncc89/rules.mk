@@ -1,0 +1,5 @@
+SRC += dshin.c
+
+MOUSEKEY_ENABLE = yes
+LEADER_ENABLE = no
+NKRO_ENABLE = no
